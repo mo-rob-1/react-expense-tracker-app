@@ -65,7 +65,7 @@ h4 {
 }
 
 .money.plus {
-  color: #2ecc71;
+  color: #13a750;
 }
 
 .money.minus {
@@ -89,7 +89,7 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #4723fa;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
@@ -123,7 +123,7 @@ input[type='number'] {
 }
 
 .list li.plus {
-  border-right: 5px solid #2ecc71;
+  border-right: 5px solid #13a750;
 }
 
 .list li.minus {
